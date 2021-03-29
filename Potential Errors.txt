@@ -1,0 +1,1 @@
+Maybe people may change the input to float values between 1 and 198
